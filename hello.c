@@ -3,5 +3,5 @@
 int main()
 {
 	/* code */
-	printf("%s\n", "hello world!");
+	printf("%s\n", "Hello world!");
 }
