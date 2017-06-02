@@ -1,0 +1,1 @@
+<p>You have log out this site!</p>
