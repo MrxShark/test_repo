@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>My Form</title>
+<title>News add</title>
 </head>
 <body>
 
